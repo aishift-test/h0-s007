@@ -27,12 +27,12 @@
     },
     "vscode": {
       "extensions": [
-        "tomoki1207.pdf",
+        "mathematic.vscode-pdf",
         "ms-vscode.live-server"
       ],
       "settings": {
         "workbench.startupEditor": "none",
-        "workbench.editorAssociations": { "*.md": "vscode.markdown.preview.editor" },
+        "workbench.editorAssociations": { "*.md": "vscode.markdown.preview.editor", "*.pdf": "pdf.view" },
         "terminal.integrated.defaultProfile.linux": "bash",
         "chat.disableAIFeatures": true,
         "claudeCode.disableLoginPrompt": true,
