@@ -3,5 +3,6 @@
   "workbench.editorAssociations": {
     "*.md": "vscode.markdown.preview.editor",
     "*.pdf": "pdf.view"
-  }
+  },
+  "claudeCode.useTerminal": true
 }
